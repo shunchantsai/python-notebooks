@@ -1,0 +1,1478 @@
+Overall Plan
+
+Here is the integrated, comprehensive 7-year monthly plan for your journey to becoming a CAT Modeler. This plan combines the strengths and unique elements from the Google Gemini, ChatGPT, and DeepSeek plans, striving for maximum detail and actionable steps.
+
+🎓 7-Year Monthly Plan: BSc Data Science & CAT Modeller Pathway 🎯 Goal: University of Bristol – Data Science with Year in Industry
+
+Ultimate 7-Year CAT Modeling Preparation Plan
+I. Master To-Do List (2025-2032)
+Core Objectives:
+Build Mathematical Foundation
+
+Complete A-Level Maths/FM + STEP papers
+
+Master probability, statistics, and linear algebra
+Why: Essential for probabilistic risk modeling and actuarial work
+
+Develop Technical Skills
+
+Python (pandas, NumPy, scikit-learn)
+
+GIS (QGIS, GeoPandas), hydraulic modeling (HEC-RAS, TELEMAC)
+Why: Industry-standard tools for flood simulation and exposure analysis
+
+Gain Domain Knowledge
+
+Study insurance/reinsurance concepts
+
+Learn catastrophe modeling frameworks (Oasis LMF, RMS)
+Why: Required to bridge technical skills with industry applications
+
+Create Portfolio Projects
+
+Flood risk dashboards
+
+ML emulators for hydraulic models
+Why: Demonstrates practical skills to employers
+
+Professional Development
+
+ACCA/actuarial exams
+
+Networking with Lloyd's market professionals
+Why: Critical for career advancement in insurance
+
+II. Yearly Breakdowns
+Year 1 (2025-2026): Foundations
+Focus: Math fundamentals + Python fluency
+Key Tasks:
+
+Complete A-Level C1-C4 + STEP I prep
+
+Build first projects (flood data scraper, binomial simulator)
+
+Start financial literacy (track markets, read Sigma reports)
+Rationale: Establishes quantitative baseline for advanced work
+
+Year 2 (2026-2027): Advanced Quant Skills
+Focus: Actuarial math + spatial analysis
+Key Tasks:
+
+A-Level Further Maths (FP1-FP3) + STEP II
+
+GeoPandas flood mapping projects
+
+Begin Swiss Re report analyses
+Rationale: Develops specialized skills for exposure modeling
+
+Year 3 (2027-2028): Industry Alignment
+Focus: UCAS applications + CAT software
+Key Tasks:
+
+Complete TELEMAC/HEC-RAS tutorials
+
+Draft UCAS personal statement
+
+Build Monte Carlo simulator for storm losses
+Rationale: Prepares for university specialization
+
+Year 4 (2028-2029): University Start
+Focus: BSc coursework + ACCA
+Key Tasks:
+
+Take BT/MA ACCA modules
+
+Join Bristol Data Science Society
+
+Create climate risk visualizations
+Rationale: Formalizes academic credentials
+
+Year 5 (2029-2030): Internship Prep
+Focus: Professional certifications
+Key Tasks:
+
+RMS CCRA certification
+
+Develop Oasis LMF plugins
+
+Polish GitHub/technical blog
+Rationale: Makes you internship-ready
+
+Year 6 (2030-2031): Dissertation
+Focus: Original research
+Key Tasks:
+
+Calibrate flood models with historical data
+
+Write on uncertainty quantification
+
+Present at CAT conferences
+Rationale: Demonstrates research capability
+
+Year 7 (2031-2032): Graduation
+Focus: Job placement
+Key Tasks:
+
+Apply to grad schemes (Swiss Re, Aon)
+
+Finalize CERA/actuarial exam plan
+
+Publish "7-Year Journey" reflection
+Rationale: Transitions to professional role
+
+III. Monthly plan
+
+📘 Year 1: Strong Foundations & Early Industry Exposure (May 2025 – April 2026) Key Themes: Math fundamentals, Python mastery, early industry awareness, foundational tech skills
+
+📅 May 2025
+* A-Level Maths: Begin C1 (Algebra, Quadratics).
+* Python: Automate the Boring Stuff with Python (ABSP) Ch. 7–8 (Regex, File I/O), SQLite basics (SELECT, INSERT, simple joins).
+* Git: Basics (init, commit, push), version control concepts, commit message best practices.
+* Tech: Linux basics (cd, ls, pwd), PostgreSQL local setup.
+* STEP I: Siklos APM – 1 problem/week.
+* Reading: "How to Lie with Statistics."
+* Podcasts: FT News Briefing, Planet Money.
+* Blog: Monthly learning log #1 (publish on GitHub Pages).
+* Industry: Follow RMS/AIR Worldwide on LinkedIn; note their CAT model releases and key news.
+* Financial Literacy: Start tracking a few major stock indices (e.g., S&P 500, FTSE 100) daily to build financial awareness.
+* Maths Application: Research and briefly understand the concept of 'expected value' in probability.
+
+📅 June 2025
+* A-Level Maths: Continue C1.
+* Python: ABSP Ch. 9–10 (File Organization, Debugging), PostgreSQL queries (WHERE, GROUP BY).
+* STEP I: 2 algebra/inequality problems.
+* Git: Branching, merging, resolving basic conflicts.
+* Project: Simple Python script with Git versioning (e.g., a basic calculator or text processor).
+* Community: Join online data science Discord / Reddit forums.
+* Data Ethics: Read an introductory article on data privacy (e.g., GDPR, CCPA basics).
+* Geospatial Intro: Look up what GIS (Geographic Information Systems) are and how they are used (e.g., Google Maps, mapping data).
+* Actuarial: Watch IFoA’s "Day in the Life of a CAT Modeler" video.
+
+📅 July 2025
+* A-Level Maths: Complete C1, C1/C2 past papers.
+* Python: Web scraping (BeautifulSoup), PDF automation, SQL JOINs practice (W3Schools).
+* STEP I: 1–2 APM problems/week.
+* Project: Flood data scraper + Streamlit dashboard (explore Plotly/Bokeh basics for interactive visuals).
+* Blog: Tech setup reflection.
+* Financial Concept: Understand basic concepts of 'risk' and 'uncertainty'.
+* Domain Reading: Find a basic article/blog post explaining what Catastrophe Modeling is.
+* Kaggle: Start "Learn Python" course (complete 5 exercises/week).
+
+📅 August 2025
+* A-Level Maths: Begin C2 (Trigonometry, Differentiation).
+* Python: NumPy & pandas (DataFrames, descriptive stats).
+* Project: Binomial simulator + pytest unit tests.
+* STEP I: Functions, sequences.
+* Practice: Daily Python snippets on LeetCode Easy (e.g., array manipulations, strings).
+* Statistics: Learn about common statistical distributions (normal, Poisson, binomial) and their real-world uses.
+* Reading: "Thinking, Fast and Slow" by Daniel Kahneman (relevant for decision-making under uncertainty).
+* Industry: Read 1 Swiss Re Sigma report (take notes on methodology).
+
+📅 September 2025
+* A-Level Maths: Continue C2.
+* Python: pandas + matplotlib (rainfall trends), Met Office API exploration.
+* STEP I: 2 problems aligned with integration, vectors.
+* Notebook: Visualise UK rainfall + temperature trends with detailed analysis.
+* Data Sourcing: Explore open-source meteorological data (e.g., NOAA, ECMWF) beyond Met Office API.
+* Ethics: Explore how data can be biased and its implications, focusing on real-world examples.
+* Networking: Message 2 Bristol Data Science alumni for advice (LinkedIn message, keep it brief and respectful).
+
+📅 October 2025
+* A-Level Maths: Complete C2.
+* Python: Seaborn (hypothesis test visualizations), OOP basics (classes, methods).
+* STEP I: Probability, algebra.
+* Project: Visualising datasets (apply OOP principles if applicable).
+* Reading: A Nature paper on climate extremes (summarize key findings).
+* Financial Concept: Research what 'insurance' is at a fundamental level (risk transfer, indemnification).
+* Problem Solving: Practice logical reasoning puzzles (e.g., from Mensa or similar resources).
+* Blog: Write a post titled “How Pandas Helps Clean Climate Data.”
+
+📅 November 2025
+* A-Level Maths: Begin C3 (Exponentials, Advanced Trig).
+* Python: Advanced functions, list comprehensions.
+* Project: Flood alert scraper + Docker intro.
+* STEP I: Use NRICH + Underground Maths resources.
+* Book: Begin “Weapons of Math Destruction” by Cathy O'Neil.
+* Cloud Basics: Understand the difference between IaaS, PaaS, SaaS with simple examples relevant to data science.
+* Networking: Begin following 2-3 data science/finance professionals on LinkedIn to observe their posts and discussions.
+* Tech: Dockerize your flood scraper and share on GitHub with clear documentation.
+
+📅 December 2025
+* A-Level Maths: Continue C3.
+* Python: Deeper OOP concepts, modular codebase design.
+* Portfolio: GitHub cleanup, deploy to GitHub Pages, ensure projects have clear READMEs.
+* STEP I: 1 algebra or probability problem/week.
+* Financial Concept: Understand the concept of 'premium' and 'claim' in insurance and how they relate.
+* Tool Exploration: Briefly research what 'GIS software' (e.g., QGIS, ArcGIS) is used for in environmental modeling.
+* Challenge: Push your first tagged GitHub release for a project.
+* Actuarial: Solve 2 CS1 probability problems (IFoA past papers or similar intro actuarial questions).
+
+📅 January 2026
+* A-Level Maths: Complete C3.
+* Python: MIT Linear Algebra (3Blue1Brown series), NumPy matrix operations.
+* Project: Project Euler (#1–20) + Gradient descent from scratch implementation.
+* STEP I: Matrix/vector problems.
+* Community: Join Math StackExchange and aim to answer 1 relevant question/week.
+* Climate Data: Find and download a small historical climate dataset (e.g., temperature for your local area, rainfall anomalies).
+* Quantitative Problem Solving: Work through a few problems from a quantitative interview prep book (e.g., "A Practical Guide To Quantitative Finance Interviews").
+* Industry: Build a simple Excel loss calculator (incorporating basic concepts like deductibles and policy layers).
+
+📅 February 2026
+* A-Level Maths: Begin C4 (Integration, Vectors).
+* Python: A-Level D1 Algorithms, basic graph theory concepts.
+* Project: Dijkstra’s visualizer + AWS Lambda basics.
+* STEP I: Algorithms/graph-style problems.
+* Skill: Learn Markdown syntax fully for professional documentation.
+* Data Security: Understand basic principles of data encryption (e.g., symmetric vs. asymmetric keys).
+* Business Acumen: Follow 1-2 major news outlets (e.g., Reuters, Bloomberg) for general business and economic news.
+* Blog: Write a post titled “Graph Theory in Flood Evacuation Routing” with your Dijkstra visualizer.
+
+📅 March 2026
+* A-Level Maths: Continue C4.
+* Python: GitHub Actions (CI/CD basics), pull request (PR) workflow best practices.
+* Project: Kruskal’s/Prim’s MST visualizer.
+* STEP I: Timed problems weekly.
+* Blog: Start a blog series on algorithms in disaster logistics.
+* Data Governance: Research what 'data quality' means in a business context and its importance.
+* Industry Reading: Look for articles on how data science is impacting the insurance industry.
+* Kaggle: Join a "Disaster Risk Analysis" competition (focus on understanding benchmarks and public notebooks, not necessarily winning).
+
+📅 April 2026
+* A-Level Maths: Complete C4.
+* Python: Intro to Jupyter Notebooks (advanced features, collaboration).
+* STEP I: 1–2 timed problems/week.
+* Reflection: Write a Medium blog post reflecting on Year 1's learning journey.
+* Presentation: Prepare and deliver a lightning talk to an online study group on a technical topic.
+* Environmental Risk: Learn about different types of natural hazards (e.g., flood, earthquake, hurricane, wildfire) and their characteristics.
+* Communication: Practice explaining a complex topic (e.g., one of your projects) to a non-technical friend/family member.
+* LinkedIn: Share a Year 1 recap post with a link to your GitHub portfolio.
+
+📗 Year 2: Advanced Maths, Actuarial & Spatial Analysis (May 2026 – April 2027) Key Themes: Actuarial prep, spatial analysis, reinsurance awareness, advanced ML foundations
+
+📅 May 2026
+* A-Level FM: Begin FP1 (Matrices).
+* Python: PCA from scratch, logistic regression implementation.
+* Tech: Kaggle account setup and initial exploration of datasets.
+* STEP II: Matrices, algebra problems.
+* Blog: Write a post titled “How Flood Models Use Matrix Operations.”
+* Financial Concept: Research basic types of insurance (e.g., property, casualty, liability, life).
+* Model Evaluation: Understand confusion matrix, precision, recall, F1-score for classification models.
+* Industry: Analyze RMS’s “Introduction to CAT Modeling” PDF or similar foundational documents.
+
+📅 June 2026
+* A-Level FM: Continue FP1.
+* Project: Regression analysis (manual implementation + scikit-learn linear regression), with a strong focus on feature engineering.
+* Stats: S3 (Confidence Intervals).
+* STEP II: Statistics, probability problems.
+* Data: Download and clean FEMA flood records (or similar publicly available hazard data).
+* Actuarial Science: Research what an 'actuary' does and the types of problems they solve in general insurance.
+* Data Visualisation: Explore interactive plots with Plotly/Bokeh for dynamic dashboards.
+* Actuarial: Solve 3 CS1 probability problems (IFoA past papers or similar).
+
+📅 July 2026
+* A-Level FM: Complete FP1.
+* Python: Ford-Fulkerson algorithm, Flask API for simple model deployment.
+* Tech: Database design principles (normalization, relational schemas).
+* STEP: 1 hard STEP I problem + 1 STEP II problem per week.
+* Mini-project: Evacuation network flow simulator using your graph theory knowledge.
+* Cloud Services: Explore Google Cloud Platform (GCP) basics (e.g., BigQuery sandbox, Cloud Functions).
+* Geospatial: Practice basic spatial data operations (e.g., filtering by location, overlays) using GeoPandas.
+* Networking: Attend a CAS (Casualty Actuarial Society) webinar or similar industry online event.
+
+📅 August 2026
+* A-Level FM: Begin FP2 (Hyperbolic Functions).
+* Python: GeoPandas for flood maps, PyMC3 introduction (Bayesian statistics).
+* STEP II: Series, functions.
+* Community: Join UK CAT modeling webinars or reinsurance forums (e.g., LinkedIn groups, specific event sign-ups).
+* Extreme Value Theory: Research EVT basics (conceptually for now) and its relevance to modeling rare, high-impact events.
+* Financial News: Subscribe to a daily financial newsletter (e.g., Morning Brew, Wall Street Journal's 'The 10-Point').
+* Project: Map UK flood claims with GeoPandas (if data available, or use synthesized data inspired by FEMA).
+
+📅 September 2026
+* A-Level FM: Continue FP2.
+* Project: Bayesian A/B testing (conceptual understanding + simple Python implementation).
+* Reading: "Naked Statistics," MIT Probability course (online materials).
+* STEP II: Calculus-heavy problems.
+* Time Series: Learn about decomposition of time series (trend, seasonality, noise).
+* Communication: Practice summarising research papers or articles in 2-3 concise bullet points.
+* Write: Technical explainer – "Bayesian Flood Risk."
+* Kaggle: Publish a notebook on Bayesian flood probability.
+
+📅 October 2026
+* A-Level FM: Complete FP2.
+* Project: Game theory simulator (simple scenarios).
+* Tech: BigQuery sandbox practice, deepen understanding of IaaS vs PaaS concepts.
+* STEP II: Start a personal GitHub repo for STEP solutions (well-documented).
+* Regulatory Frameworks: Briefly research "Solvency II" (EU) or "NAIC" (US) as key insurance regulations.
+* Cloud Project: Deploy a small Flask API to a cloud platform (e.g., Heroku, Google Cloud Run).
+* Experiment: Explore loss modeling in Google Earth Engine (or a similar geospatial cloud platform).
+* Blog: Write a post titled “Reinsurance Layers Explained with Python.”
+
+📅 November 2026
+* A-Level FM: Begin FP3.
+* Tech: Met Office API (advanced usage), LinkedIn profile polish (optimize for data science/quant roles).
+* Ethics: Bias, fairness, privacy in data and algorithms.
+* STEP II: Practice writing solutions in LaTeX.
+* Industry Insight: Identify 3-5 major CAT modeling firms (e.g., RMS, AIR Worldwide, Verisk) and understand their core offerings and client base.
+* Python Libraries: Introduction to scipy.stats for statistical tests and distributions.
+* Watch: UNDRR (UN Office for Disaster Risk Reduction) CAT risk webinars.
+* Actuarial: Draft a 5-year exam plan (e.g., CS1, CM1, SP7 for IFoA).
+
+📅 December 2026
+* A-Level FM: Continue FP3.
+* Portfolio: Polish GitHub READMEs, create video demos for key projects.
+* Tech: Docker (advanced concepts, multi-container apps), Heroku deployment for a project.
+* STEP: Timed STEP II sessions.
+* Data Security: Learn about anonymization and pseudonymization techniques for sensitive data.
+* Networking: Attend a virtual webinar or industry talk related to data science or insurance (e.g., a specific company's tech talk).
+* Deploy: Deploy your Streamlit dashboard to Heroku.
+* Industry: Build a Monte Carlo simulator for simplified storm losses (conceptual or basic code).
+
+📅 January 2027
+* A-Level FM: Complete FP3.
+* Career: Participate in a virtual internship program (Forage/Bright Network or similar).
+* STEP: Review hardest solved problems, identify weak areas.
+* Financial Products: Research what 'reinsurance' is (facultative, treaty) and its purpose in risk transfer.
+* Quantitative Finance: Explore concepts like present value and future value, discounting.
+* Blog: Write a post titled “What I Learned in My Virtual Internship” (focus on data science/risk aspects).
+* LinkedIn: Post internship takeaways and tag the companies (if appropriate).
+
+📅 February 2027
+* A-Level Stats: Begin S1 (Probability, Distributions).
+* Project: ARIMA time series forecasting, include basic evaluation metrics (RMSE, MAE, R-squared).
+* Tech: SQL window functions, common table expressions (CTEs).
+* STEP: Advanced integration/differentiation problems.
+* Climate Science: Understand the difference between 'weather' and 'climate' and basic climate change indicators (e.g., global temperature anomalies).
+* Bristol University Research: Identify a few research groups or faculty members at Bristol working on relevant topics (climate, risk, ML, actuarial science).
+* Use: NOAA dataset for real-time time series modeling example.
+* Actuarial: Solve 2 CM1 cashflow problems (IFoA past papers or similar).
+
+📅 March 2027
+* A-Level Stats: Continue S1.
+* Competition: Kaggle Titanic dataset, focus on feature engineering and various model types (Random Forest, SVM, XGBoost).
+* Prep: Practice explaining projects with an F1 score, 60-second pitch.
+* STEP: Solve 2 past papers/month (timed conditions).
+* Professional Development: Refine your elevator pitch for "why data science" and "why CAT modeling."
+* Industry Standard: Research common data formats in insurance (e.g., exposure data, loss data, policy data).
+* Pitch: Conduct a mock UCAS interview – record yourself and reflect critically.
+* Networking: Request UCAS feedback from a CAT modeler (if possible, LinkedIn or university connections).
+
+📅 April 2027
+* A-Level Stats: Complete S1.
+* Passion project: Flood prediction pipeline (end-to-end, with proper documentation and code comments).
+* Visit: Bristol Open Day (if relevant dates align).
+* STEP: Compile a portfolio appendix of your best STEP solutions.
+* Interview Prep: Start compiling a list of common data science interview questions (behavioral and technical, with practiced answers).
+* Data Visualisation: Practice creating informative and visually appealing dashboards (e.g., with Tableau Public or Power BI desktop intro).
+* Polish: Ensure your GitHub Pages site is polished with a project index and bio.
+* Industry: Submit an abstract to a student CAT modeling competition or a relevant academic conference.
+
+🎓 Year 3: Capstone, UCAS & Deeper Quant Skills (May 2027 – April 2028) Key Themes: UCAS application, advanced financial concepts, specialized modeling software, networking for university
+
+📅 May 2027
+* A-Level: Revise C1–C4, S1–S4 thoroughly.
+* Capstone: Flood resilience pipeline draft (conceptual design).
+* Python: PCA, regression, flood maps recap (theory and application).
+* Tech: LaTeX basics for academic writing, intro to R, intro to C++ (basic syntax, data types).
+* Certs: CS50P (if not completed), MITx Probability & Statistics (online courses).
+* STEP: 1 past paper (timed).
+* Portfolio: GitHub repo cleanup for key projects.
+* Actuarial: Solve 2 CS1 past paper questions weekly.
+* Industry: Analyze RMS/AIR Worldwide CAT model white papers (focus on methodologies, inputs, outputs).
+* Risk Management: Explore the concept of 'VaR' (Value at Risk) and 'ES' (Expected Shortfall) in finance/insurance.
+* Problem Solving: Practice case study style questions relevant to data analysis (e.g., consulting firm case studies).
+* Research: Top CAT modeling MSc programs + admissions requirements.
+
+📅 June 2027
+* A-Level: Begin S3.
+* Python: Airflow DAGs (basics of workflow orchestration).
+* Project: Workflow automation (e.g., automating data cleaning or report generation).
+* Financial: 1 FT article/day, focus on concept: insurance triggers.
+* Reading: Sector deep dive into the global insurance/reinsurance market.
+* Journal: Reflection entry on your learning progress and career aspirations.
+* Blog: Write a post titled “What is a reinsurance trigger?”
+* Networking: Connect with 3 Lloyd’s of London CAT modelers on LinkedIn (keep initial message brief).
+* Geospatial Analysis: Learn about different map projections and their impact on spatial data accuracy.
+* Statistical Modeling: Understand generalized linear models (GLMs) conceptually as a foundation for actuarial work.
+
+📅 July 2027
+* A-Level: Continue S3.
+* Python: Airflow plugins, custom operators (more advanced Airflow).
+* Project: Build Custom Airflow operators for specific data tasks.
+* Financial: Swiss Re Sigma reading + detailed notes on methodology.
+* STEP: 1 STEP II problem/week.
+* Kaggle: Compete in a "Natural Catastrophe Claims Prediction" challenge.
+* Deploy: Deploy an Airflow pipeline on a local environment (e.g., Docker Compose).
+* Industry Software: Research common CAT modeling software (e.g., Touchstone, Oasis Loss Modelling Framework) and their basic functionalities.
+* Data Security: Learn about data masking and tokenization techniques for sensitive data.
+
+📅 August 2027
+* A-Level: Complete S3.
+* Python: QGIS intro (desktop GIS software).
+* Project: Spatial visualisation in QGIS (e.g., creating maps from your flood data).
+* Finance: Visualise reinsurance capital layers (conceptually or with simplified diagrams).
+* Case study: Analyze London flood zones + social vulnerability overlay using QGIS or similar tool.
+* Actuarial: Begin CM1 interest theory (Annuities, Loans).
+* Catastrophe Event Data: Research historical major catastrophe events (e.g., Hurricane Katrina, Tohoku earthquake) and their financial impact.
+* Machine Learning Ethics: Understand fairness metrics in ML models (e.g., disparate impact, equalized odds).
+
+📅 September 2027
+* A-Level: Begin S4.
+* Python: QGIS API (automating GIS tasks with Python).
+* STEP: 1 full STEP II paper (timed).
+* Finance: Concept deep dive – parametric insurance (how it works, pros/cons).
+* Draft: UCAS personal statement v1.
+* Blog: Write a post titled “How QGIS Maps Improve Flood Risk Models.”
+* Programming Best Practices: Read about code style guides (e.g., PEP 8) and linting (flake8, pylint).
+* Industry Trends: Read about the impact of climate change on the insurance industry (e.g., TCFD recommendations).
+
+📅 October 2027
+* A-Level: Continue S4.
+* Python: Spatial pipelines (integrating QGIS scripting with data processing).
+* Project: Flood risk simulation framework (conceptual design and basic Python modules).
+* UCAS: Finalise and submit personal statement (seek feedback from teachers/mentors).
+* Practice: 2 mock interviews with peers (focus on STAR method).
+* Industry: Attend a Guy Carpenter webinar on climate risk or reinsurance.
+* Business Acumen: Understand different business models within the insurance sector (e.g., direct writers, brokers, reinsurers).
+
+📅 November 2027
+* A-Level: Complete S4.
+* Python: TELEMAC basics (open-source hydraulic modeling software).
+* Project: River modeling automation (simple scripts to run TELEMAC simulations).
+* Financial: Solvency II walkthrough (key pillars, quantitative requirements).
+* Actuarial: Take a CM1 mock exam (Topic: Mortality Tables).
+* Regulatory Compliance: Research the role of regulatory bodies (e.g., PRA, FCA in UK) in the insurance industry.
+* Data Storytelling: Practice presenting insights from your data using compelling narratives and visuals.
+* Blog: Write about how Solvency II affects CAT reinsurance.
+
+📅 December 2027
+* A-Level: Begin D1.
+* Python: TELEMAC scripting (automating simulations, post-processing).
+* Project: Solvency capital visualisation (mock data, interactive dashboard).
+* STEP: Try STEP III problem.
+* Map: Overlay TELEMAC output with socioeconomic data using GIS.
+* Networking: Reach out to one or two data science/actuarial professionals on LinkedIn for an informational interview (brief chat about their role and career path).
+* Industry Standards: Understand the concept of "perils" in insurance (e.g., flood, wind, earthquake) and their classifications.
+* Networking: Request feedback on your UCAS statement from an actuary or data science professional.
+
+📅 January 2028
+* A-Level: Continue D1.
+* Python: HEC-RAS basics (another hydraulic modeling software).
+* Project: River analysis notebook (integrating HEC-RAS outputs with Python analysis).
+* UCAS: Mock interview practice (university-style).
+* Reading: Peer-reviewed CAT modeling paper (summarise key findings and methodology).
+* Portfolio Improvement: For each project, write a clear "Problem, Approach, Result, Future Work" summary.
+* Risk Transfer Mechanisms: Learn about different types of reinsurance contracts (e.g., proportional, non-proportional, excess of loss, quota share).
+* Industry: Read "Catastrophe Modeling for Dummies" (RMS or similar introductory text).
+
+📅 February 2028
+* A-Level: Complete D1.
+* Python: HEC-RAS scripting (automating runs, extracting data).
+* Project: Integrated flood modeling pipeline (connecting data ingestion, hydraulic model, analysis, visualization).
+* STEP: Full mock paper (timed, under exam conditions).
+* Webinar: Attend 1 industry event on risk modeling (online conference, workshop).
+* Communication: Practice writing clear, concise technical summaries for non-technical audiences.
+* Data Quality: Deep dive into missing data imputation techniques and handling outliers.
+* Actuarial: Solve 2 CM1 past paper problems daily.
+
+📅 March 2028
+* Python: Advanced modeling techniques (e.g., incorporating machine learning into flood impact assessment).
+* Financial: Read Lloyd’s market report (annual review, key trends).
+* Project: CAT blog draft #1 (e.g., "Understanding Flood Risk with Data Science").
+* Climate Risk: Research physical vs. transition risks related to climate change for financial institutions.
+* Technical Writing: Draft a short explainer on a complex data science concept (e.g., cross-validation).
+* Industry: Build a simple Oasis LMF plugin (e.g., an exposure data loader or a simple hazard module).
+* Create: Infographic on CAT modeling workflow.
+
+📅 April 2028
+* A-Level: Final review for all A-Levels.
+* STEP: Final revision for all STEP papers.
+* Blog: Write a post titled “CAT Governance for Beginners.”
+* Project Review: Critically review your projects for potential improvements in efficiency, methodology, or scalability.
+* Interview Practice: Conduct a mock technical interview with a peer or mentor, focusing on code explanations and problem-solving.
+* LinkedIn: Publish a post on “Why CAT Models Need Data Science,” showcasing your understanding.
+* Presentation: Final Year 3 project pitch (record and self-assess).
+
+📅 Year 4: University Entry & BSc Start (May 2028 – April 2029) Key Themes: BSc Modules, initial university networking, deepening ML, capital markets
+
+📅 May 2028
+* STEP: Final exam prep (intensive review of weakest areas).
+* Python: ML basics (linear regression, decision trees from scratch or using NumPy).
+* Project: Predictive flood models (simple implementations using your collected data).
+* Financial: Start C++ basics (syntax, data structures, simple algorithms).
+* Financial Markets: Understand the basics of capital markets and how insurance companies invest their premiums.
+* Cloud Computing: Deeper dive into AWS services relevant to data (S3 for storage, EC2 for compute, Lambda for serverless functions).
+* Portfolio: Organise your flood project archive with detailed READMEs and illustrative images/gifs.
+* Actuarial: Register for CS1 exam (if pursuing the IFoA qualification).
+
+📅 June 2028
+* STEP: Intensive STEP III practice sessions.
+* Python: ML tuning techniques (hyperparameter tuning, cross-validation).
+* Project: Classification models (e.g., logistic regression, SVM on a classic dataset like Iris or MNIST).
+* Financial: CAT bond pricing notebook (conceptual understanding, simplified models).
+* Risk Aggregation: Research how different types of risks (e.g., flood, earthquake, market risk) are aggregated in an insurance portfolio.
+* Data Pipelines: Basic understanding of ETL (Extract, Transform, Load) processes and their importance.
+* Explore: Oasis LMF tutorials and installation (try running a basic example).
+* Kaggle: Compete in a time-series forecasting challenge.
+
+📅 July 2028
+* STEP: Final review of advanced concepts.
+* Python: ANN introduction (feedforward networks, backpropagation conceptually).
+* Project: Image classification (simple CNN using a library like Keras/TensorFlow on a toy dataset).
+* Financial: Weekly insurance summaries (read industry news, regulatory updates).
+* Industry Best Practices: Read about best practices for model documentation in finance/insurance (e.g., model risk management guidelines).
+* Machine Learning Interpretability: Begin exploring concepts like SHAP or LIME for understanding model predictions.
+* Map: Create maps of historic UK floods using QGIS or GeoPandas.
+* Industry: Internship application prep (research requirements for Lloyd’s, Swiss Re, RMS, etc.).
+
+📅 August 2028
+* Python: ML Frameworks (TensorFlow/PyTorch, introductory tutorials).
+* Project: Final capstone testing and refinement (ensure robustness and performance).
+* Financial: Reinsurance trigger scenarios (how events translate to payout triggers).
+* Disaster Response: Research how CAT models are used by governments and aid organizations during disasters (e.g., UN, Red Cross).
+* Cloud Architecture: Understand basic concepts of serverless computing vs. traditional servers and containerization.
+* Write: Summary blog on flood modeling techniques, comparing different approaches.
+* Actuarial: Complete CS1 past papers under timed conditions.
+
+📅 September 2028
+* Prep: University orientation, logistics, course registration.
+* Python: Clean + archive GitHub repositories (ensure all personal projects are well-organized).
+* Finalise: Flood + STEP project portfolios (ready for sharing with potential employers/university).
+* Industry Regulation: Research the regulatory landscape for insurance in the UK (e.g., PRA's role).
+* Personal Branding: Update your LinkedIn profile with a compelling summary and highlights of your projects and skills.
+* Submit: Ensure your GitHub link is included in UCAS portal and LinkedIn.
+* Networking: Join University actuarial society and data science clubs.
+
+📅 October 2028
+* University: Start BSc Data Science.
+* ACCA: Begin BT (Business Technology) module (if self-studying ACCA).
+* Courses: Focus on core university modules: Stats, Python for Data Science, Mathematical tools.
+* Financial: Insurance podcast summary (e.g., "The InsureTech Guys," "Reimagining Insurance").
+* Academic Success: Attend university workshops on academic writing, research skills, and time management.
+* Networking: Attend university departmental freshers' events and meet classmates and faculty.
+* Blog: Write a post titled “First Month at Bristol: Data Science for CAT” reflecting on your initial impressions.
+* Community: Join Bristol Risk & Finance student society.
+
+📅 November 2028
+* University: Coursework for first term modules.
+* Project: University group portfolio project (contribute actively).
+* Blog: Final STEP reflection post (how the preparation helped your university transition).
+* Peer Learning: Join or form a study group for challenging modules.
+* University Resources: Explore the university's career services and internship opportunities.
+* Meeting: Meet 1 professor to discuss your interest in catastrophe risk and potential research.
+* Actuarial: Start CM1 revision (Cashflow Models).
+
+📅 December 2028
+* University: Assessments for first term modules.
+* Project: Update GitHub Pages with university projects + video introductions (if allowed by university).
+* Financial: Annotate a CAT bond prospectus (understand its structure, risks, and triggers).
+* Portfolio Enhancement: Add clear 'About Me' and 'Contact' sections to your GitHub Pages.
+* Industry Insight: Read up on recent natural catastrophe events and their economic/insured impact.
+* Skill: Practice creating professional Jupyter Notebooks and LaTeX reports.
+* Industry: Virtual coffee chat with a reinsurance broker (if opportunity arises).
+
+📅 January 2029
+* University: Modules continue, second term.
+* Python: pandas/seaborn (advanced data manipulation and visualization).
+* Project: Visualisation dashboard using university data or a personal dataset.
+* Time Management: Refine your time management strategies for university workload and extracurriculars.
+* Data Engineering: Understand basic concepts of data warehousing, data lakes, and ETL vs. ELT.
+* Blog: Write a post titled "What surprised me about BSc Year 1" (data science focus).
+* Kaggle: Publish a notebook on flood risk EDA using advanced techniques.
+
+📅 February 2029
+* University: ML intro (scikit-learn, supervised learning algorithms).
+* Financial: Solvency UK report breakdown (key findings, implications for insurers).
+* Research Skills: Practice finding and critically evaluating academic papers (using university library resources).
+* Domain Knowledge: Read a report from a major reinsurance broker (e.g., Aon, Marsh McLennan) on market trends.
+* Mini-project: Predict insurance premium scenarios based on simplified factors.
+* Actuarial: Solve 5 CM1 past paper questions weekly.
+
+📅 March 2029
+* University: Assessments + mock interviews for internships (with university career service).
+* Project: ML pipeline notebook (from data loading to model deployment).
+* Financial: Insurer statement analysis (read annual reports of listed insurance companies).
+* Industry Tools: Research proprietary CAT modeling software (e.g., Oasis, RMS, AIR) and their key differences and features.
+* Presentation Skills: Practice presenting your project findings clearly and concisely, adapting to different audiences.
+* Prep: CV review with university career center.
+* Networking: Attend an InsurTech Hackathon (if available, virtual or in-person).
+
+📅 April 2029
+* University: Term wrap-up, final coursework.
+* Financial Project: Build an expected loss calculator (simplified actuarial calculation).
+* Optional: Solve an advanced STEP problem for continuous challenge.
+* Resume/CV: Start drafting your first professional CV/resume based on your learned skills and projects, tailor it for data science/CAT roles.
+* Professionalism: Research professional etiquette for email communication and networking events.
+* LinkedIn: Write a term review on your LinkedIn blog, highlighting key learnings and projects.
+* LinkedIn: Share a project demo video from your GitHub.
+
+📅 Year 5: Internship Readiness & Specialization (May 2029 – April 2030) Key Themes: Internship applications, advanced ML, deeper CAT modeling concepts, actuarial exams
+
+📅 May 2029
+* ACCA: Start MA (Management Accounting) module.
+* Python: Ensemble models (Random Forest, Gradient Boosting, Stacking).
+* Project: Risk model tuning and optimization (e.g., hyperparameter search).
+* Internship Applications: Begin researching and identifying potential internship roles in CAT modeling or related areas (e.g., risk analytics, actuarial data science).
+* Quantitative Methods: Explore Monte Carlo simulation methods for complex risk assessment problems.
+* Actuarial: Sit CS1 exam (if planned).
+* Case study: Evaluate real CAT model outputs and their underlying assumptions (use publicly available reports or examples).
+
+📅 June 2029
+* Python: Feature selection techniques, dimensionality reduction.
+* Financial: ACCA FA (Financial Accounting) prep begins.
+* Interview Practice: Tailor your resume and cover letter for specific internship applications, highlight CAT modeling relevance.
+* Industry Events: Look for virtual or in-person industry conferences or career fairs in insurance/finance.
+* Blog: Write a post titled “Understanding Hazard vs Exposure vs Vulnerability in CAT Modeling.”
+
+📅 July 2029
+* Python: Neural networks (deeper architectures, CNNs, RNNs).
+* Financial: CAT model validation reading (industry guidelines, best practices for validating models).
+* Behavioral Questions: Prepare answers for common behavioral interview questions (e.g., "Tell me about a time you failed," "Describe a challenging project").
+* Regulatory Filings: Understand the purpose of financial reports filed by insurance companies (e.g., Solvency and Financial Condition Report - SFCR).
+* Deploy: Internal model validator notebook on GitHub (simple code to check data consistency).
+* Kaggle: Publish a kernel on “Feature Importance in CAT Models.”
+
+📅 August 2029
+* ACCA: Sit FA exam.
+* Tech: GitHub Actions automation (for continuous integration/deployment of personal projects).
+* Climate: Bias correction practice for climate model outputs (basic statistical methods).
+* Technical Questions: Prepare for technical questions related to machine learning, statistics, and Python programming.
+* Project Refinement: Ensure your key projects are easily accessible and well-documented for recruiters.
+* Simulation: Run a mock flood event through your validation logic.
+* Networking: Attend a Society of Actuaries (SoA) conference (if relevant and accessible).
+
+📅 September 2029
+* Blog: Write a CAT + insurance update #2 (e.g., current trends, recent events).
+* Financial: Stakeholder brief writing (practice summarizing complex data for non-technical audiences).
+* Case Study Practice: Work through a few data science case studies relevant to finance/insurance.
+* Ethical AI: Deepen understanding of ethical considerations in AI and data science, specifically related to fairness, accountability, and transparency in risk models.
+* Actuarial: Begin CM1 exam prep (Life Contingencies, if applicable).
+* Mini-course: Review FEMA flood risk resources (e.g., flood maps, hazard mitigation plans).
+
+📅 October 2029
+* Internship: Start Year in Industry (CAT modeling role – actual work experience).
+* ACCA: Begin LW (Corporate Law) module.
+* Blog: Write a "Month 1 learning post" on your internship experience.
+* Onboarding: Familiarize yourself with company tools, policies, team structure, and proprietary CAT software (e.g., RMS, AIR, etc.).
+* Active Listening: Focus on understanding project requirements and team discussions fully.
+* Industry: Document proprietary software used (e.g., specific versions, modules).
+
+📅 November 2029
+* Data: Exposure data cleaning and transformation (hands-on internship task).
+* Cloud: Deploy pipeline (Airflow/dbt) in a professional setting (observe/assist).
+* Networking: Schedule informational interviews with colleagues in different departments (e.g., underwriting, claims, actuarial, IT).
+* Industry Specifics: Learn about different types of loss (e.g., property damage, business interruption, contingent business interruption).
+* Reading: Aon Impact Forecasting technical papers (or similar from other firms).
+* Actuarial: Shadow capital modeling team/actuaries to understand their work.
+
+📅 December 2029
+* Portfolio: Document Internal project #1 from your internship (if permissible and anonymized).
+* CS1: Begin ActEd stats prep (for actuarial exams).
+* Blog: Write "3 Months in CAT Modeling" post (deeper reflections).
+* Feedback Seeking: Proactively ask for feedback on your work and performance from your manager and colleagues.
+* Problem Solving: Document specific challenges faced and solutions implemented during your internship projects.
+* Document: Exposure cleansing scripts with audit trail practices.
+* LinkedIn: Post about internship learnings (general, non-confidential).
+
+📅 Year 6: CAT Modeling Mastery & Dissertation Prep (Jan 2030 – Dec 2030) Key Themes: Deep internship involvement, advanced modeling, actuarial exams, dissertation topic finalization
+
+📅 January 2030
+* CS1: ActEd mock exam.
+* Python: Geo batch processing (efficiently processing large geospatial datasets).
+* Finance: Weekly memo writing (summarize key findings from your internship projects).
+* Model Uncertainty: Understand different sources of uncertainty in CAT models (e.g., model error, parameter uncertainty, data uncertainty).
+* Data Visualisation: Create compelling dashboards to present internship project results (using company tools or Python/Tableau).
+* Industry: Build a CLI tool for exposure data validation (if a suitable internal project).
+* Dashboard: Build claims severity dashboard with Streamlit (personal project, or internal if allowed).
+
+📅 February 2030
+* CS1: Sit CS1 exam.
+* ACCA: Begin FR (Financial Reporting) module.
+* Blog: Write a "CAT Governance Primer" (based on internship observations or research).
+* Risk Transfer: Deep dive into the mechanics of CAT bonds and other alternative risk transfer mechanisms (ILW, collateralized reinsurance).
+* Stakeholder Communication: Practice translating technical findings into business insights for non-technical stakeholders.
+* Explore: Try Oasis LMF flood example end-to-end (if you have access/time outside work).
+* Reading: "Principles of Corporate Finance" (Brealey, Myers, Allen) - begin this classic textbook.
+
+📅 March 2030
+* CM1: Interest theory (ActEd CM1 material).
+* Project: dbt refactor (if using dbt at internship, or personal project).
+* Model Limitations: Learn to articulate the limitations and assumptions of the CAT models you use (critical skill for CAT modeling).
+* Industry Best Practices: Research "model risk management" frameworks in financial institutions (SR 11-7, TRIM).
+* Validate: Event frequency with real-world datasets (compare model output to historical events).
+* Kaggle: Compete in a spatial risk competition.
+
+📅 April 2030
+* CM1: Life tables (ActEd CM1 material).
+* GIS: Elevation modeling (advanced GIS concepts, e.g., LiDAR data).
+* LinkedIn: Update profile with internship experience, skills, and endorsements.
+* Professional Development: Identify key skills or areas for further growth based on internship experience and professional aspirations.
+* Climate Science: Research different climate change scenarios (e.g., RCPs/SSPs) and their potential impact on CAT models.
+* Case Study: Review an Istanbul earthquake event modeling report.
+* Actuarial: Solve 2 CM1 past papers/month.
+
+📅 May 2030
+* CM1: ActEd mock exam.
+* Presentation: Prepare and deliver a comprehensive presentation on Exposure Management (e.g., for an internal team or university project).
+* GitHub: Clean up and prepare your Lambda pipeline for your portfolio.
+* Public Speaking: Volunteer to present your work to a larger internal team or at a company-wide forum (if opportunities arise).
+* Catastrophe Event Analysis: Practice post-event analysis using CAT model outputs (e.g., comparing modelled losses to actual losses from recent events).
+* Industry: Draft a white paper on flood model limitations (personal project, a summary of your research).
+* Webinar: Attend a CAT-focused industry event.
+
+📅 June 2030
+* CM1: Sit CM1 exam.
+* Internship: Internship wrap-up activities (final reports, presentations).
+* Finalise: LinkedIn profile with internship details, comprehensive reading plan for continued learning.
+* Thank You Notes: Send personalized thank-you notes to colleagues and mentors from your internship.
+* Career Planning: Reflect on your internship experience and refine your long-term career goals within CAT modeling or broader data science.
+* Blog: Write a post titled “10 Lessons from My CAT Modeling Internship.”
+* Networking: Request a recommendation letter from your internship manager.
+
+📅 July 2030
+* Dissertation Research: Begin in-depth research for your final year dissertation, focusing on CAT tools and urban flood modeling.
+* Data: Collect and organize data related to land use, infrastructure, and socio-economic factors for your dissertation.
+* Research Methodology: Develop a robust research methodology for your dissertation (e.g., mixed-methods, quantitative modeling approach).
+* Literature Review: Conduct a comprehensive literature review on your dissertation topic, identifying gaps and relevant studies.
+* Actuarial: Start CS2 prep (Statistical Methods for Actuaries).
+* Review: IPCC risk chapters and note CAT connections.
+
+📅 August 2030
+* Dissertation: Set up Dissertation GitHub repo (for code, data, documentation).
+* Refactor: Your personal simulation pipeline (e.g., the flood prediction pipeline) based on internship learnings.
+* ACCA: Prep optional CB1 (Business and Technology) / PM (Performance Management) for further professional breadth.
+* Academic Writing: Focus on structuring your dissertation with clear arguments and evidence, using LaTeX.
+* Data Governance: Apply good data governance principles to your dissertation data (e.g., versioning, metadata, data quality checks).
+* Blog: Write a post titled “How My Internship Shaped My Dissertation Topic.”
+
+📅 September 2030
+* Dissertation: Finalize and submit Dissertation Plan.
+* Final CV: Polish your CV, tailoring it for graduate CAT modeling roles.
+* Blog: Write a "Capstone prep post" for your final year project.
+* Networking: Connect with potential dissertation supervisors or external experts in your field.
+* Time Management: Create a detailed schedule and milestones for dissertation completion.
+* Industry: Submit an abstract to a relevant CAT modeling conference (e.g., a student track if available).
+* Contact: Schedule initial feedback meeting with your dissertation supervisor.
+
+📅 Year 7: Dissertation & Graduation (Oct 2030 – May 2032) Key Themes: Dissertation completion, graduate job applications, final actuarial exams
+
+📅 October 2030
+* Dissertation: Begin practical work on dissertation (e.g., implementing Oasis LMF or TELEMAC for simulations).
+* Data: Process and analyze elevation and hazard data specific to your dissertation study area.
+* Optional: CERA (Certified Enterprise Risk Actuary) preview (understand what it entails).
+* Model Calibration: Understand the process of calibrating models to observed data (critical for dissertation).
+* Software Proficiency: Deepen your expertise in specific CAT modeling software (Oasis, TELEMAC, HEC-RAS, etc.).
+* Run: TELEMAC model test case with real DEM data.
+* Actuarial: Sit CM1 exam (if not taken earlier).
+
+📅 November 2030
+* Dissertation: Calibrate models (e.g., hydraulic models, damage functions) to historical data or established benchmarks.
+* Dissertation: Visualise hazard and vulnerability outputs (e.g., flood depth maps overlaid with population density).
+* Scenario Analysis: Learn how to run and interpret different climate or event scenarios in your models for dissertation.
+* Peer Review: Seek early feedback on your dissertation chapters from peers or mentors.
+* Map: Create maps showing social vulnerability + flood exposure.
+
+📅 December 2030
+* Dissertation: Run mid-stage simulations and generate preliminary results.
+* Dissertation: Draft methods and results sections of your dissertation.
+* Uncertainty Quantification: Explore methods for quantifying and communicating uncertainty in your model results.
+* Research Ethics: Ensure your dissertation adheres to ethical research guidelines (e.g., data privacy, responsible use of models).
+* Peer Feedback: Request interim comments on methods from your dissertation supervisor.
+
+📅 January 2031
+* Dissertation: Draft review (internal review, supervisor feedback).
+* Dissertation: Model validation (rigorous testing of your models against independent data or benchmarks).
+* Blog: Write a comprehensive post titled “How to Become a CAT Modeler” (summarizing your journey).
+* Academic Presentation: Prepare a short presentation outlining your dissertation progress for an internal university seminar.
+* Communication: Practice explaining complex modeling choices and results clearly and concisely.
+* Checklist: Perform compliance checks against industry model documentation standards.
+* LinkedIn: Share dissertation progress and insights.
+
+📅 February 2031
+* Dissertation: Finalise results, generate tables and figures.
+* Dissertation: Complete appendices and documentation (code, data sources, assumptions).
+* Data Provenance: Document the sources and transformations of all data used in your dissertation.
+* Version Control: Maintain rigorous version control for your dissertation code and text (e.g., using Git branches for revisions).
+* Actuarial: Begin SP7 (General Insurance) prep (if pursuing advanced actuarial exams).
+* Review: UK regulatory data protection policy for modeling.
+
+📅 March 2031
+* Dissertation: Full draft completed.
+* Dissertation: Conduct peer reviews of your dissertation (with classmates or trusted mentors).
+* Dissertation: Design your final poster for any university poster sessions.
+* Refinement: Polish your writing style for clarity, conciseness, and academic rigor.
+* Visual Communication: Design an impactful poster that effectively summarises your dissertation.
+* Practice: Oral defense walkthrough with a peer group or mentor.
+* Networking: Connect with Lloyd’s graduate recruiters (if interested in the London market).
+
+📅 April 2031
+* Dissertation: Submit dissertation.
+* Presentation: Prepare for your final defense/presentation of the dissertation.
+* Blog: Write a "7-Year Reflection" post (looking back at your journey).
+* Interview Prep: Begin preparing intensely for graduate job interviews, tailoring your experiences to specific CAT modeling roles.
+* Networking: Attend university career events specifically for final-year students and graduate scheme presentations.
+* Job Applications: Apply to graduate schemes (e.g., Swiss Re, Aon, Guy Carpenter, Willis Towers Watson).
+* Submit: GitHub + written report portfolio to an external reviewer (e.g., a contact from your internship if they offered).
+
+📅 May 2031
+* University: Final exams + final coursework.
+* Job Applications: Continue submitting applications, participate in interviews.
+* Grad School Decisions: Make decisions if you've applied for MSc programs.
+* Application Strategy: Tailor your applications to specific companies and roles, highlighting relevant projects and skills.
+* Mental Well-being: Prioritize self-care during this intense period of exams and job applications.
+* Actuarial: Pass CS2 exam (if taken).
+
+📅 June 2031
+* 🎓 Graduation
+* Final CV: Polish your CV to its absolute best, incorporating all achievements.
+* GitHub: Final GitHub polish, ensuring all relevant projects are easily discoverable.
+* Celebration: Celebrate the successful completion of your 7-year journey!
+* Long-term Planning: Set new goals for your first few years in your professional career (e.g., further actuarial exams, specialized software training).
+* Continuous Learning: Plan for ongoing professional development and industry certifications beyond university.
+* LinkedIn: Write a comprehensive LinkedIn summary titled “From A-Levels to CAT Modeling: My Journey,” detailing your path and key milestones.
+
+This integrated plan is incredibly ambitious and demanding, but if followed, it will undoubtedly make you an exceptionally competitive candidate for CAT modeling roles. Remember to be flexible and adapt as opportunities or challenges arise. Good luck!
+
+-----------------------------------------------------------------------------------------------------
+🎓 7-year Monthly Plan for BSc Data Science and becoming a CAT modeller
+
+🎯 Goal: University of Bristol – Data Science with Year in Industry
+
+📅 May 2025
+* A-Level Maths: Begin C1 (Algebra, Quadratics)
+* Python: ABSP Ch. 7–8, SQLite basics
+* Git: Basics, version control
+* Tech: Linux, PostgreSQL setup
+* STEP I: Siklos APM – 1 problem/week
+* Reading: How to Lie with Statistics
+* Podcasts: FT News Briefing, Planet Money
+📅 June 2025
+* A-Level Maths: Continue C1
+* Python: ABSP Ch. 9–10, PostgreSQL queries
+* STEP I: 2 algebra/inequality problems
+* Git: Branching, merging
+* Project: Simple Python script with Git versioning
+📅 July 2025
+* A-Level Maths: Complete C1
+* Python: BeautifulSoup, PDFs, SQL JOINs
+* STEP I: 1–2 APM problems/week
+* Project: Flood data scraper + Streamlit
+📅 August 2025
+* A-Level Maths: Begin C2
+* Python: NumPy & pandas
+* Project: Binomial simulator, pytest
+* STEP I: Functions, sequences
+📅 September 2025
+* A-Level Maths: Continue C2
+* Python: pandas + matplotlib, Met Office API
+* STEP I: 2 problems aligned with integration, vectors
+📅 October 2025
+* A-Level Maths: Complete C2
+* Python: seaborn, OOP basics
+* STEP I: Probability, algebra
+* Project: Visualising datasets
+📅 November 2025
+* A-Level Maths: Begin C3
+* Python: Advanced functions, list comprehensions
+* Project: Flood alert scraper, Docker intro
+* STEP I: Use NRICH + Underground Maths
+📅 December 2025
+* A-Level Maths: Continue C3
+* Python: OOP, modular codebase
+* Portfolio: GitHub cleanup, deploy to Pages
+* STEP I: 1 algebra or probability problem/week
+📅 January 2026
+* A-Level Maths: Complete C3
+* Python: MIT Linear Algebra (3Blue1Brown), NumPy matrix ops
+* Project: Euler 1–20, gradient descent from scratch
+* STEP I: Matrix/vector problems
+📅 February 2026
+* A-Level Maths: Begin C4
+* Python: D1 Algorithms, graph theory
+* Project: Dijkstra visualiser, AWS Lambda
+* STEP I: Algorithms/graph-style problems
+📅 March 2026
+* A-Level Maths: Continue C4
+* Python: GitHub Actions, PR workflow
+* Project: Kruskal/Prim visualizer
+* STEP I: Timed problems weekly
+📅 April 2026
+* A-Level Maths: Complete C4
+* Python: Intro to Jupyter
+* STEP I: 1–2 timed problems/week
+* Reflection: Medium blog on Year 1
+📅 May 2026
+* A-Level FM: Begin FP1 (Matrices)
+* Python: PCA from scratch, logistic regression
+* Tech: Kaggle setup
+* STEP II: Matrices, algebra
+📅 June 2026
+* A-Level FM: Continue FP1
+* Project: Regression (manual + sklearn)
+* Stats: S3 (Confidence Intervals)
+* STEP II: Stats, probability
+📅 July 2026
+* A-Level FM: Complete FP1
+* Python: Ford-Fulkerson, Flask API
+* Tech: DB design
+* STEP: 1 hard STEP I + 1 STEP II per week
+📅 August 2026
+* A-Level FM: Begin FP2 (Hyperbolic)
+* Python: GeoPandas flood maps
+* Stats: PyMC3 intro
+* STEP II: Series, functions
+📅 September 2026
+* A-Level FM: Continue FP2
+* Project: Bayesian A/B testing
+* Reading: Naked Statistics, MIT Prob
+* STEP II: Calculus-heavy problems
+📅 October 2026
+* A-Level FM: Complete FP2
+* Project: Game theory simulator
+* Tech: BigQuery, IaaS vs PaaS
+* STEP II: Start personal repo
+📅 November 2026
+* A-Level FM: Begin FP3
+* Tech: Met Office API, LinkedIn polish
+* Ethics: Bias, fairness, privacy
+* STEP II: Write solutions in LaTeX
+📅 December 2026
+* A-Level FM: Continue FP3
+* Portfolio: Polish README, video demos
+* Tech: Docker, Heroku
+* STEP: Timed STEP II sessions
+📅 January 2027
+* A-Level FM: Complete FP3
+* Career: Virtual internship (Forage/Bright Network)
+* STEP: Review hardest solved problems
+📅 February 2027
+* A-Level Stats: Begin S1
+* Project: ARIMA forecasting
+* Tech: SQL window functions
+* STEP: Advanced integration/diff
+📅 March 2027
+* A-Level Stats: Continue S1
+* Competition: Kaggle Titanic
+* Prep: F1 score, 60-sec pitch
+* STEP: Solve 2 past papers/month
+📅 April 2027
+* A-Level Stats: Complete S1
+* Passion project: Flood prediction pipeline
+* Visit: Bristol Open Day
+* STEP: Compile portfolio appendix
+📅 May 2027
+* A-Level: Review C1–C4, S1–S4 past papers
+* Capstone: Flood resilience pipeline
+* Python: Review PCA, regression, flood maps
+* Skills: LaTeX basics, intro to R, C++ foundations
+* Certs: CS50P, MITx, Coursera Stats
+* STEP: 1 past paper/month
+📅 June 2027
+* A-Level: Begin S3
+* Python: Advanced Airflow DAGs
+* Project: Complex workflow automation
+* Financial Literacy: Insurance fundamentals + weekly FT article
+📅 July 2027
+* A-Level: Continue S3
+* Python: Airflow plugins
+* Project: Custom Airflow operators
+* STEP: 1 STEP II problem/week
+* Reading: Swiss Re Sigma + summary notes
+📅 August 2027
+* A-Level: Complete S3
+* Python: QGIS intro + spatial visualization
+* Project: Geospatial data visualisation
+* Financial Project: Visualise reinsurance capital layers
+📅 September 2027
+* A-Level: Begin S4
+* Python: QGIS API, advanced spatial processing
+* STEP: 1 full STEP II paper
+* Financial Concept: Parametric insurance + basis risk
+📅 October 2027
+* A-Level: Continue S4
+* Python: Spatial pipelines
+* Project: Flood risk simulation framework
+* UCAS: Finalise personal statement, submit
+📅 November 2027
+* A-Level: Complete S4
+* Python: TELEMAC intro, batch processing
+* Project: River flood modeling automation
+* Financial: Insurance statements + solvency II walkthrough
+📅 December 2027
+* A-Level: Begin D1 (Algorithms, Graphs)
+* Python: TELEMAC scripting
+* STEP: Try STEP III problem
+* Financial Project: Solvency capital visualisation (Python/Excel)
+📅 January 2028
+* A-Level: Continue D1
+* Python: HEC-RAS basics
+* Project: River analysis + flood risk modeling
+* Financial: Prepare UCAS mock interview material
+📅 February 2028
+* A-Level: Complete D1
+* Python: HEC-RAS scripting
+* STEP: Full mock exam
+* Project: Integrated flood modeling pipeline
+📅 March 2028
+* STEP: Continue STEP II prep
+* Python: Advanced modeling techniques
+* Financial: Read Lloyd’s report; note CAT bond mechanisms
+📅 April 2028
+* Review: Full mock paper for all A-Level Maths topics
+* STEP: Final timed revision set
+* Financial Blog: CAT Model Governance for Beginners
+📅 May 2028
+* STEP: Continue practice + STEP III
+* Python: Machine learning foundations
+* Project: Predictive flood models (linear, tree-based)
+* Financial: Start C++ basics (if not yet done)
+📅 June 2028
+* STEP: Begin STEP III intensive
+* Python: Advanced ML + tuning
+* Project: Flood classification models
+* Financial: CAT bond pricing notebook
+📅 July 2028
+* STEP: Continue STEP III
+* Python: Deep learning intro (ANN)
+* Project: Flood image classification
+* Financial: Deep dive on reinsurance triggers
+📅 August 2028
+* STEP: Final review of all papers
+* Python: Deep learning frameworks
+* Project: Final capstone testing phase
+* Financial: Weekly insurance earnings breakdown
+📅 September 2028
+* University Prep: Orientation, move logistics
+* Python: Clean notebooks, compile portfolio
+* GitHub: Archive STEP + flood projects
+📅 October 2028
+* University: Start BSc Data Science
+* Modules: Intro to programming, stats, math tools
+* Financial: Continue insurance podcast summary log
+📅 November 2028
+* University: Coursework projects
+* Python: Academic applications
+* STEP: Final reflection blog + GitHub update
+📅 December 2028
+* University: Mid-term assessments
+* Project: Group portfolio initiation
+* Financial: Annotate CAT bond prospectus
+📅 January 2029
+* University: New modules start
+* Python: Data analysis with pandas/seaborn
+* Project: Visualisation project launch
+📅 February 2029
+* University: Continue projects
+* Python: ML model basics (scikit-learn)
+* Financial: Read Solvency UK disclosures
+📅 March 2029
+* University: Assessments + mock interviews
+* Project: ML modeling pipeline
+* Financial: Weekly case review (insurer risk statements)
+📅 April 2029
+* University: Finalise term 2 work
+* Financial: Prepare project on expected loss
+* STEP: Optional practice problem for fun
+📅 May 2029
+* University Year 2 begins
+* Python: ML topics — tree models, ensembles
+* Project: Risk model evaluation
+📅 June 2029
+* University: Continue modules
+* Python: Model tuning, feature selection
+* Financial: Begin ACCA FA mock exam prep
+📅 July 2029
+* University: Mid-term assessments
+* Python: Neural networks basics
+* Financial: Study CAT model validation whitepapers
+📅 August 2029
+* ACCA FA exam
+* Python: Automation + GitHub Actions
+* Climate: Learn bias correction in downscaling
+📅 September 2029
+* Project: Complete insurance + CAT blog #1
+* Climate: TELEMAC + insurance pricing frameworks
+* Financial: Draft stakeholder comms example briefs
+📅 October 2029
+* Begin Year in Industry (CAT modeling)
+* Python: Git documentation at work
+* Blog: Monthly learning post
+* Start ActEd CS1 self-study
+📅 November 2029
+* Insurance Data Case Study (work-based)
+* Stakeholder practice (mentor presentation)
+* Cloud: Deploy pipeline on AWS (Airflow/dbt)
+📅 December 2029
+* Statistical Inference (CS1 study)
+* Portfolio: Work project #1 in GitHub
+* Blog Post: 3 Months in CAT Modeling
+📅 January 2030
+* CS1 Mock exams
+* C++: Conditionals, loops basics
+* Internal brief writing (weekly)
+* Python: Geo batch processing
+📅 February 2030
+* ActEd CS1 exam
+* Begin CM1 prep
+* Financial Modeling: Sensitivity, ROC
+* Blog Post: CAT Governance Primer
+📅 March 2030
+* CM1: Cash flows, interest theory
+* Pipeline: Refactor using dbt + document
+* Internal Talk: CAT modeling 101
+📅 April 2030
+* CM1: Life tables
+* LinkedIn update: Skill summary
+* Geospatial: Raster modeling with elevation
+📅 May 2030
+* CM1 mock exams
+* Presentation: Exposure Management
+* Project: AWS Lambda pipeline on GitHub
+📅 June 2030
+* CM1 exam
+* Internship wrap-up: Portfolio, LinkedIn
+* Reading list prep for dissertation
+📅 July 2030
+* Dissertation Research: Read CAT/flood papers
+* Model: 1D vs 2D simulations
+* Data: Land-use, infra extraction workflow
+📅 August 2030
+* Dissertation: GitHub repo, code structure
+* Refactor: Simulation pipeline
+* Preview: ActEd CS2 or CB1
+📅 September 2030
+* Submit: Final dissertation plan
+* Finalise CV + portfolio
+* BSc Final Year begins
+* Blog: Dissertation Prep Insight
+📅 October 2030
+* Dissertation Modeling: Oasis, TELEMAC
+* Data: Elevation, hazard, exposure
+* CERA preview (optional)
+📅 November 2030
+* Modeling: Calibrate + test
+* Visualise: Hazard/vulnerability link
+* Document: Model governance log
+📅 December 2030
+* Run: Mid-stage simulations
+* Visualise: Summary dashboards
+* Draft: Methods/results section
+* Mock: Stakeholder comms
+📅 January 2031
+* Full Methods Draft
+* Stakeholder loops
+* Climate Scenarios: Impact modeling
+* Validation: Sensitivity tests
+📅 February 2031
+* Results Finalised
+* Appendices: Parameters + code snippets
+* Blog: Flood Modeling as a Data Scientist
+📅 March 2031
+* Dissertation Draft Complete
+* Peer review
+* Final tuning + dashboard polishing
+* Poster prep for conference
+📅 April 2031
+* Submit Dissertation
+* Archive: GitHub repo, README
+* Presentation: Final defense + briefing
+* Reflective blog: 7-Year Journey
+📅 May 2031
+* Final exams + coursework
+* Job applications begin
+* Revisit IFoA/ACCA roadmap
+📅 June 2031
+* Graduation!
+* Final transcript, portfolio wrap
+* Submit MSc applications or job apps
+* Celebrate the 7-Year Master Plan complete!
+
+
+Put the below into Year 4-7 of the 7 year monthly plan. Then present the monthly plan of all 7 Years to me. Make sure to include Headings of Year 1, Year 2, Year 3 to Year 7 above the appropriate months. 
+
+Make sure to lose no details or tasks that need to be complete:
+
+Your Year 4 Financial Literacy Plan (Light but Consistent)
+
+1. Weekly Routine
+• 1 FT article per day (Mon–Fri)
+• Weekends: Pick one in-depth article (e.g., Big Read, or sector report)
+• 1 concept per week to dive deeper into (e.g., bonds, reinsurance, inflation, derivatives)
+• Monthly reflection journal (track what confused you at first but now makes sense)
+
+2. Termly Goals
+• Term 1: Core financial terms + industry players (central banks, regulators, insurers, etc.)
+• Term 2: How insurance, risk, and finance intersect (especially climate and CAT risk)
+• Term 3: Financial data analysis using Python or Excel (small side project like visualizing flood risk + insurance costs)
+
+3. Learn in Context
+• Connect financial topics to what you’re studying in data science, maths, or catastrophe modeling. This makes them click faster.
+• e.g., link a regression model to how insurers estimate expected loss
+
+
+Year 5 Financial Literacy Plan (Deeper & Practical)
+
+1. Weekly Routine
+
+Weekdays (Mon–Fri)
+• 1 Financial Times article per day
+• Rotate weekly themes: reinsurance, inflation, Solvency II, CAT bonds, insurance earnings, etc.
+
+Weekends
+• 1 long-form report or whitepaper (e.g., Lloyd’s market report, Swiss Re sigma, McKinsey)
+• Summarize it in 3 bullet points for your notes or GitHub repo
+
+2. Monthly Focus Topics
+• October – Reinsurance:
+Understand risk transfer types: quota share, excess-of-loss, facultative
+• November – Solvency II & Solvency UK:
+Learn about capital adequacy, SCR/MCR, and insurance balance sheets
+• December – Insurance Financial Statements:
+Learn to read insurer profit & loss and balance sheet reports
+• January – CAT Bonds (Insurance-Linked Securities):
+Understand trigger types, pricing, risk spreads, and investor returns
+• February – Parametric Insurance:
+Learn how index-based insurance works, especially in climate risks
+• March – Insurance Pricing Models:
+Explore frequency-severity modeling and expected loss calculations
+• April – Credit Ratings for Insurers:
+Understand the factors that influence ratings and solvency
+• May – Regulation & Stress Testing:
+Learn about PRA, scenario testing, and risk-based capital regulations
+
+⸻
+
+3. Projects & Applications
+• Project A – Reinsurance Simulator (Winter):
+Build a Python model to simulate excess-of-loss reinsurance using random claims data and visualize impact with Matplotlib.
+• Project B – Solvency Capital Visualizer (Spring):
+Analyze Solvency II reports, break down capital components, and build charts (in Python or Excel) showing CAT risk vs other risks.
+• Project C – CAT Bond Pricing Notebook (Summer):
+Model CAT bond pricing in a Jupyter Notebook. Include expected loss, return on capital, basis risk, and payout scenarios.
+
+⸻
+
+4. Tools to Learn
+• Excel VBA or Power BI
+• QuantLib or pandas_datareader for finance tasks
+• Streamlit or Dash for interactive visualizations
+
+⸻
+
+5. Stretch Goal
+• Read and annotate real CAT bond prospectuses or Solvency II disclosures
+• Extract and explain 1–2 technical points per document in your notes
+
+
+Year 3 Financial & Career Plan (Placement Year: 2030–31)
+
+1. Complete the Remaining ACCA Exams
+
+You will already have taken:
+• BT (Business Technology) — Year 1 BSc
+• MA (Management Accounting) — Year 2 BSc
+• FA (Financial Accounting) — Summer of Year 2
+
+Now complete:
+• LW (Corporate & Business Law) – Autumn Term
+• FR (Financial Reporting) – Spring Term
+• FM (Financial Management) – Summer Term
+
+Why? This builds financial modeling, IFRS knowledge, and strategic thinking — valuable in insurance finance and risk modeling.
+
+⸻
+
+2. Placement Goals
+
+At Work:
+• Learn CAT modeling software (e.g., RMS, AIR, Oasis LMF)
+• Join exposure data cleaning, model validation, or loss modeling projects
+• Document processes and create automation or dashboards if allowed
+
+Personal Development:
+• Keep a weekly log: what you’ve learned, challenges faced, questions to ask
+• Monthly GitHub update or blog post summarizing insights or technical mini-projects
+
+⸻
+
+3. Stretch Learning & Certification (Optional but Strategic)
+
+If you’re progressing well:
+• RMS Certified Catastrophe Risk Analyst (CCRA) – A well-recognized credential
+• Start Certified Catastrophe Modeler (CCM) (AIR) or Oasis LMF training courses
+• Begin Actuarial or CERA prep if you’re eyeing risk modeling roles with deep quantitative focus
+
+⸻
+
+4. Technical Portfolio
+
+Create 1–2 small data science notebooks linked to your placement:
+• Simulate simplified reinsurance structures
+• Visualize historical losses vs model projections
+• Build a Jupyter Notebook that cleans and prepares exposure data for CAT modeling
+
+Host these on GitHub with a polished README.
+
+⸻
+
+5. Financial Industry Fluency
+
+Maintain:
+• 2–3 Financial Times or Insurance Insider articles per week
+• 1 deep dive per month (e.g., Solvency UK update, market loss report, climate finance trend)
+
+
+Year 4 Financial & Career Plan (Final Year: 2031–32)
+
+1. Dissertation / Capstone Project
+• Title Example: “Modeling Urban Flood Resilience Using Open-Source CAT Tools and Climate Data”
+• Use Oasis LMF, Python, and real exposure + hazard data
+• Explore reinsurance impact or loss cost estimates if possible
+• Aim to produce something publishable or presentable at a CAT modeling conference
+
+Output:
+• GitHub repository with modular code, README, visualizations
+• Well-commented Jupyter notebooks or Python scripts
+• Optional: Deploy interactive results on Heroku using Docker (you’ll be ready!)
+
+⸻
+
+2. Professional Certification & Final ACCA Touch-ups (Optional)
+• If not yet completed: finish RMS CCRA or AIR CCM
+• Optional: Take ACCA PM (Performance Management) if you want to go further toward finance leadership or actuarial roles
+• Build a one-page “Certifications Portfolio” PDF (great for job/grad school apps)
+
+⸻
+
+3. Job & MSc Applications
+
+Start applications by Autumn 2031 for:
+• MSc Data Science (or MSc Risk, MSc Actuarial Science, etc.)
+• Junior CAT modeler roles (many open to grads with strong Python + insurance knowledge)
+
+Prepare:
+• A tailored CV and Cover Letter
+• Portfolio link (GitHub + blog + certifications PDF)
+• 2–3 references (placement mentor, academic advisor, etc.)
+
+⸻
+
+4. Industry Fluency
+• Read 1–2 key sector reports (e.g., Swiss Re Sigma, Willis Towers Watson, Guy Carpenter)
+• Practice turning reports into digestible insights for hiring managers or MSc interviews
+• Follow climate finance and Solvency UK reforms if applying to CAT modeling in the UK
+
+⸻
+
+5. Optional Extras
+• Try giving a lightning talk or webinar on your dissertation project (university event, GitHub page, YouTube channel)
+• Begin building a LinkedIn presence focused on CAT risk, climate analytics, and insurance tech
+
+Also, I remember that I had planned to start my ACCAs once I start my BSc data science with a year in industry course in Bristol. Have you made a mistake? If so, please make sure to add in the the 3 ACCAs modules in appropriate monthly.
+
+Also, please make sure you have the following relevant components in each month in the 7 year period: a level maths, python, tech, STEP, reading, podcast, project, portfolio, reflection, stats, career, competition, passion project, capstone, financial literacy, financial projects, financial blogs, and UCAS
+
+-----------------------------------------------------------------------------------------------------
+Here are ideal stepping-stone roles that align closely with catastrophe modeling and reinsurance analytics:
+
+⸻
+
+1. Exposure Analyst / Risk Analyst
+	•	Why it’s relevant: Many CAT modeling teams work closely with exposure analysts who prepare and validate data inputs for models.
+	•	Skills developed: Understanding of insurance portfolios, data cleaning, basic catastrophe model usage (Oasis, RMS, AIR).
+	•	Employers: Insurance brokers (e.g. Aon, Guy Carpenter), insurers (e.g. AXA XL, Zurich), consultancies.
+
+⸻
+
+2. Reinsurance Analyst
+	•	Why it’s relevant: Reinsurance analysts work on pricing, structuring, and evaluating reinsurance treaties—often using CAT model outputs.
+	•	Skills developed: Financial modeling, treaty analytics, Excel/VBA/R/Python, regulatory reporting (Solvency II).
+	•	Employers: Reinsurers (e.g. Swiss Re, Munich Re), Lloyd’s syndicates, brokers.
+
+⸻
+
+3. Data Analyst (Insurance / Climate / Financial Risk domain)
+	•	Why it’s relevant: Strong data skills are foundational. Many data analyst roles in insurance or climate risk can lead into CAT modeling.
+	•	Skills developed: Python, SQL, statistics, geospatial analysis, dashboard building (Tableau, PowerBI).
+	•	Employers: Insurtechs, consultancies, public agencies, or Fathom-style startups.
+
+⸻
+
+4. Junior Underwriting Analyst (Property/Climate/Marine etc.)
+	•	Why it’s relevant: These roles involve evaluating risk at the individual contract level, often using CAT model outputs.
+	•	Skills developed: Understanding real-world insurance risks, underwriting logic, probabilistic thinking.
+	•	Employers: Lloyd’s syndicates, direct insurers.
+
+⸻
+
+5. Junior Model Validation / Model Governance Assistant
+	•	Why it’s relevant: Regulatory and internal model validation is a growing field—many firms need help checking CAT model assumptions.
+	•	Skills developed: Governance frameworks (Solvency II, IFRS 17), documentation, reporting.
+	•	Employers: Actuarial consultancies, insurers, internal model teams.
+
+⸻
+
+6. Climate Risk Analyst (Banking or ESG focus)
+	•	Why it’s relevant: Banks and corporates are modeling physical climate risk—skills translate well into CAT modeling roles.
+	•	Skills developed: Climate scenario modeling, TCFD, IPCC reports, GIS.
+	•	Employers: ESG consultancies, banks, large corporates, Moody’s, S&P.
+
+⸻
+
+How to Strengthen Your Application While Working:
+	•	Complete CCRA if not yet done.
+	•	Join Oasis LMF community and attend webinars.
+	•	Publish a mini-project using public CAT model data.
+	•	Study Solvency II, UK insurance law, and model validation frameworks.
+	•	Network via LinkedIn, Actuarial / Risk conferences, or RMS/AIR workshops.
+	•	Consider MSc options if your first job isn’t ideal, but work experience is often more valuable initially.
+
+-----------------------------------------------------------------------------------------------------
+
+Great! Here’s a typical post-MSc pathway to becoming a fully qualified CAT (catastrophe) modeler, focusing on certification, platform training, and professional development:
+
+⸻
+
+🧩 Post-MSc Path to Full CAT Modeler Qualification
+
+Target Timeline: ~1–2 years after MSc
+
+✅ Step 1: Entry-Level Role (Junior CAT Modeler)
+	•	When: Immediately after your MSc (estimated ~2025-2033)
+	•	Tasks:
+	•	Work under senior modelers
+	•	Assist in model validation, data prep, and scenario analysis
+	•	Gain exposure to:
+	•	Property exposure datasets
+	•	Reinsurance contracts
+	•	Loss modeling tools
+
+✅ Step 2: Core Platform Training (within 6–12 months)
+	•	Oasis LMF (open-source platform)
+	•	Setup, model execution, and pipeline building
+	•	GitHub + Python workflows
+	•	RMS (Risk Management Solutions)
+	•	Learn to use RiskLink / RiskBrowser
+	•	Understand perils, vulnerability modules, financial structures
+	•	AIR Worldwide (now Verisk Extreme Event Solutions)
+	•	Touchstone / Touchstone Re for loss modeling
+
+✅ Step 3: Certification & Upskilling (within 1–2 years)
+	•	RMS Certified Catastrophe Risk Analyst (CCRA)
+A recognized certification in the industry
+	•	Exam covers hazard, exposure, vulnerability, financial modeling
+	•	Useful for internal promotion and external credibility
+	•	Additional Courses:
+	•	Insurance-linked securities (ILS) & reinsurance basics
+	•	SQL + Python for modeling automation
+	•	Cloud computing tools: AWS / Azure in model deployment
+	•	Geospatial skills: QGIS / GeoPandas / hazard layer mapping
+
+✅ Step 4: Mid-Level Progression (Year 2+)
+	•	Start specializing (e.g., flood risk, climate perils, cyber risk)
+	•	Take on model calibration, scenario design, or model validation
+	•	Collaborate with actuaries, underwriters, and data scientists
+
+⸻
+
+Would you like me to integrate this timeline into your 36-month prep and post-MSc roadmap as a clean, extended plan for your notes app?
