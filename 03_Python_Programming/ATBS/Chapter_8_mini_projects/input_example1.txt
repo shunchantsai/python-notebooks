@@ -1,0 +1,9 @@
+  name: Alice Johnson
+
+email: alice.j@email.com
+   phone: 555-123-4567
+
+   education:
+bsc physics, university of leeds
+
+skills: python, data analysis, sql

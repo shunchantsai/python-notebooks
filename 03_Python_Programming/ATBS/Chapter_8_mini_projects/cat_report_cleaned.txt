@@ -1,0 +1,19 @@
+Event: hurricane isabel
+Location: Outer Banks, NC
+Date: 9/18/2003
+Damage estimate: $3.7B
+Remarks: widespread flooding. Thousands displaced. Poor drainage worsened flooding.
+Contact: [EMAIL REDACTED]
+Backup contact: [EMAIL REDACTED]
+storm report received on 09/18/03
+site visited 09/19/2003
+manual override: $3,700,000,000
+page: internal_use_only
+Event: tornado outbreak
+Location: Tuscaloosa, AL
+Date: 4/27/2011
+Damage estimate: $2.2B
+Eyewitness: “it ripped through the whole town...”
+Contact: [EMAIL REDACTED]
+raw notes: property losses around 650 million.
+raw notes: fatalities reported ~250.

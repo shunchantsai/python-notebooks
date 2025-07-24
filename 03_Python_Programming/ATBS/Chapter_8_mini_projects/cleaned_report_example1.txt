@@ -1,0 +1,6 @@
+Name: Alice Johnson
+Email: [EMAIL REDACTED]
+Phone: [PHONE REDACTED]
+Education:
+Bsc Physics, University Of Leeds
+Skills: Python, Data Analysis, Sql

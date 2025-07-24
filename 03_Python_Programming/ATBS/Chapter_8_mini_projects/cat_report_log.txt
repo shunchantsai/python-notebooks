@@ -1,0 +1,21 @@
+--- CAT Cleaning Session 2025-07-24 09:12:00.346250 ---
+[OK] Event: hurricane isabel
+[OK] Location: Outer Banks, NC
+[OK] Date: 9/18/2003
+[OK] Damage estimate: $3.7B
+[OK] Remarks: widespread flooding. Thousands displaced. Poor drainage worsened flooding.
+[OK] Contact: [EMAIL REDACTED]
+[OK] Backup contact: [EMAIL REDACTED]
+[OK] storm report received on 09/18/03
+[OK] site visited 09/19/2003
+[OK] manual override: $3,700,000,000
+[OK] page: internal_use_only
+[OK] Event: tornado outbreak
+[OK] Location: Tuscaloosa, AL
+[OK] Date: 4/27/2011
+[OK] Damage estimate: $2.2B
+[OK] Eyewitness: “it ripped through the whole town...”
+[OK] Contact: [EMAIL REDACTED]
+[OK] raw notes: property losses around 650 million.
+[OK] raw notes: fatalities reported ~250.
+

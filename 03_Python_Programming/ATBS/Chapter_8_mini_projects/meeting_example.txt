@@ -1,0 +1,6 @@
+alice: um yeah I think we should, you know, postpone the launch.
+bob: okay, like let's move forward with the new plan then.
+carol: uh I'm not sure, you know, if that's the best idea.
+alice: we could also ask [CONFIDENTIAL] for feedback.
+bob: yeah, email: bob.k@agency.com has more info.
+carol: call me at 555-123-4567 if needed.
